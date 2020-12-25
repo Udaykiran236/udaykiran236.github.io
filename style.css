@@ -362,6 +362,10 @@ a{
 .footer-desktop{
     display: none;
 }
+.action-section-desktop{
+    display : none;
+}
+
 @media (min-width : 800px){
     .mobile-only{
         display: none;
